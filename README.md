@@ -1,0 +1,6 @@
+# Puzzle
+There is a distant, spherical planet with an airport on an equatorial island. The task is to circumnavigate the planet (go around the planet once along the equator) once. The problem is that an airplane can only hold fuel to go half  the distance of the circumference.   Assuming that you can have as many planes as possible on the island, an unlimited supply of fuel and instantaneous mid-air refueling (transfer fuel from one plane to another) that takes no time; what is the minimum number of planes required to complete the journey?  Now, your task is not only to solve this puzzle, but to write a program to solve any similar puzzle. This program shall take as input the maximum distance an airplane can travel on a full tank. For example, in the scenario mentioned above, this input would be 0.5 - meaning, each plane can only travel half the circumference of the planet on a full tank.  With this input, the program should output the minimum number of planes required to do the task as well as the approach.  Input (through command line):  A number, ideally between 0 and 1.  Expected Output (based on the input value):  Minimum number of planes to circumnavigate the planet. Sequence of steps to indicate how this will be achieved.
+
+
+
+
